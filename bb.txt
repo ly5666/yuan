@@ -1,2 +1,7 @@
 test the first
+<<<<<<< HEAD
 test the second 
+=======
+test the second
+test the thrid
+>>>>>>> second
